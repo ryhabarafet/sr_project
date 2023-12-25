@@ -1,0 +1,17 @@
+[
+    {
+      "code": "F001",
+      "nomClient": "Client1",
+      "montantVerse": 150.50
+    },
+    {
+      "code": "F002",
+      "nomClient": "Client2",
+      "montantVerse": 200.00
+    },
+    {
+      "code": "F003",
+      "nomClient": "Client3",
+      "montantVerse": 75.25
+    }
+  ]
